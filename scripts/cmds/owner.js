@@ -7,7 +7,7 @@ module.exports = {
 	config: {
 		name: "owner",
 		version: "3.0",
-		author: "亗•𝘔𝘈𝘔𝘜𝘕✿᭄",
+		author: "—͟͞Tᴀᴍɪᴍ ㅤ⸙",
 		role: 0,
 		shortDescription: "Owner information",
 		longDescription: "Show owner information",
@@ -30,13 +30,13 @@ module.exports = {
   𝗢𝗪𝗡𝗘𝗥 𝗣𝗥𝗢𝗙𝗜𝗟𝗘 
 ╚═════════╝
 ╭──────────⭓
-│💌𝗡𝗮𝗺𝗲 :    亗•𝘔𝘈𝘔𝘜𝘕✿᭄
-│🧸𝗡𝗶𝗰𝗸      :  Vondo
-│🔮 𝗔𝗴𝗲       : 20
-│🖤 𝗦𝘁𝗮𝘁𝘂𝘀   :  Single
-│✡️ 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 :  Student
- | 🚸𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 :   Inter 2nd Year
-│🔶 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻  :  Khulna
+│💌𝗡𝗮𝗺𝗲 :     —͟͞Tᴀᴍɪᴍ ㅤ⸙
+│🧸𝗡𝗶𝗰𝗸      :  NᴇXxʏ
+│🔮 𝗔𝗴𝗲       : 14+
+│🖤 status   :  Sɪɴɢʟᴇ
+│✡️ 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 :  Sᴛᴜᴅᴇɴᴛ
+ | 🚸𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 :   class -1
+│🔶 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻  :  Dʜᴀᴋᴀ_Nᴀʀᴀʏᴀɴɢᴏɴᴊ
 ╰──────────⭓
 ╭─────────⭓
  |🆙  ${hours}h ${minutes}m ${seconds}s
