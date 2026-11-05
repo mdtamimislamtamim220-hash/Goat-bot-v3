@@ -15,7 +15,7 @@ module.exports = {
 
   onStart: async function ({ api, event, args }) {
     const OWNER_IDS = [
-      "61595057655929",
+      "61595472257948",
       "61595489399118"
     ];
 
