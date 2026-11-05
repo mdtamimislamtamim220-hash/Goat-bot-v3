@@ -34,7 +34,7 @@ module.exports = {
 │🧸𝗡𝗶𝗰𝗸      :  NᴇXxʏ
 │🔮 𝗔𝗴𝗲       : 14+
 │🖤 status   :  Sɪɴɢʟᴇ
-│✡️ 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 :  Sᴛᴜᴅᴇɴᴛ
+│✡️ 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 :  Vᴏɴᴅᴀᴍɪ
  | 🚸𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 :   class -1
 │🔶 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻  :  Dʜᴀᴋᴀ_Nᴀʀᴀʏᴀɴɢᴏɴᴊ
 ╰──────────⭓
@@ -45,7 +45,7 @@ module.exports = {
 ╰─────────⭓
 ╭──────────⭓
 │💠 WhatsApp
-│🆔  wa.me/01830981279
+│🆔  +966 57 662 6771
 ╰──────────⭓
 `;
 
@@ -54,7 +54,7 @@ module.exports = {
 
 		fs.ensureDirSync(cacheFolder);
 
-		const imageUrl = "https://i.imgur.com/g0GpgfG.jpeg";
+		const imageUrl = "https://i.imgur.com/Rtana3w.png";
 
 		request(imageUrl)
 			.pipe(fs.createWriteStream(imagePath))
