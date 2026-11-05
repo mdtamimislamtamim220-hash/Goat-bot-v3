@@ -22,7 +22,7 @@ module.exports.onStart = async function({ api, event, args }) {
     }
 
     if (!targetID) {
-        return api.sendMessage("Bos, jake gali diben take mention din ba tar message-e reply din! 🫂", threadID, messageID);
+        return api.sendMessage("boss, je khankir pola apnr sathe beyadopi korche ore ekta mention den ba or msg er reply den! 🫂", threadID, messageID);
     }
 
     const userInfo = await api.getUserInfo(targetID);
