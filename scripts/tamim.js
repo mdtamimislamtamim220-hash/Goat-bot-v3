@@ -1,41 +1,41 @@
 module.exports = {
   config: {
-      name: "mamun",
+      name: "tamim",
           version: "1.0.4",
-              author: "〲MAMUNツ࿐ T.T　o.O",
+              author: "—͟͞Tᴀᴍɪᴍ ㅤ⸙",
                   role: 0,
-                      shortDescription: "Mamun Profile ",
+                      shortDescription: "tamim Profile ",
                           category: "Information",
                               guide: {
-                                    en: "type mamun"
+                                    en: "type tamim"
                                         }
                                           },
   onStart: async function () {},
   onChat: async function ({ api, event }) {
       const msg = event.body?.toLowerCase();
-          if (!msg || msg !== "mamun") return;
+          if (!msg || msg !== "tamim") return;
     const profileText = 
-    `⏤͟͟͞͞𝗠𝗔𝗠𝗨𝗡  𝗜𝗡𝗙𝗢 ☺︎
+    `⏤͟͟͞͞𝗧𝗔𝗠𝗜𝗠  𝗜𝗡𝗙𝗢 ☺︎
  ⏤͟͟͞͞☺︎ ┏━━━━━━━━━━━━━━━
- ⏤͟͟͞͞𝐍𝐚𝐦𝐞 ➯ 𝑴𝑨𝑴𝑼𝑵  ⏤͟͟͞͞ ᜊ
+ ⏤͟͟͞͞𝐍𝐚𝐦𝐞 ➯ 𝐓𝐀𝐌𝐈𝐌 ⏤͟͟͞͞ ᜊ
  
-⏤͟͟͞͞𝐍𝐢𝐜𝐤𝐧𝐚𝐦𝐞 ➯⏤͟͟͞͞ 𝐕𝐎𝐍𝐃𝐎 😜
+⏤͟͟͞͞𝐍𝐢𝐜𝐤𝐧𝐚𝐦𝐞 ➯⏤͟͟͞͞ NexXy 🌪️
 
 ⏤͟͟͞͞𝐂𝐨𝐮𝐧𝐭𝐫𝐲 ➯⏤͟͟͞͞𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 🇧🇩
 
-🏤⏤͟͟͞͞𝐇𝐨𝐦𝐞 ➯⏤͟͟͞͞𝐊𝐡𝐮𝐥𝐧𝐚   ☠️
+🏤⏤͟͟͞͞𝐇𝐨𝐦𝐞 ➯⏤͟͟͞͞𝐦𝐲𝐦𝐞𝐧𝐬𝐢𝐧𝐠  ☠️
 
-🏛️⏤͟͟͞͞𝐃𝐢𝐬𝐭𝐫𝐢𝐜𝐭 ➯⏤͟͟͞͞𝐊𝐇𝐔𝐋𝐍𝐀 💀
+🏛️⏤͟͟͞͞𝐃𝐢𝐬𝐭𝐫𝐢𝐜𝐭 ➯⏤͟͟͞͞𝐣𝐚𝐦𝐚𝐥𝐩𝐮𝐫 💀
 
-⛪⏤͟͟͞͞𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 ➯ 𝐈𝐧𝐭𝐞𝐫 2𝐧𝐝 𝐘𝐞𝐚𝐫 ✍︎❤️‍🩹
+⛪⏤͟͟͞͞𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 ➯ 𝟏- ✍︎❤️‍🩹
 
-⏤͟͟͞͞𝐀𝐠𝐞 ➯ 20  😊❤️‍🩹
+⏤͟͟͞͞𝐀𝐠𝐞 ➯ 𝟏𝟒+  🐣✨
 
 🕌⏤͟͟͞͞𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 ➯ 𝐈𝐬𝐥𝐚𝐦 ❤️♡♡
 
 ⏤͟͟͞͞𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 ➯ 𝐒𝐢𝐧𝐠𝐥𝐞  ‍♡
 
-⏤͟͟͞͞𝐁𝐞𝐬𝐭 𝐅𝐧𝐝➯ 𝑨𝑺𝑬 ,,🙃
+⏤͟͟͞͞𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 ➯ obito__bbz ,,✨
 
 ⏤͟͟͞͞𝐅𝐯𝐭 𝐂𝐨𝐥𝐨𝐮𝐫➯ ⏤͟͟͞͞𝐁𝐥𝐚𝐜𝐤 😺🖤
 
