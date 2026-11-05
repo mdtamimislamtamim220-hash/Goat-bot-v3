@@ -33,7 +33,7 @@ module.exports = {
     api.sendMessage(
 ` 🥹 𝐁𝐨𝐭 𝐢𝐬 𝐥𝐞𝐚𝐯𝐢𝐧𝐠...
  💖 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮!
- 👑 𝐎𝐰𝐧𝐞𝐫 : 𝐌𝐀𝐌𝐔𝐍 💌`,
+ 👑 𝐎𝐰𝐧𝐞𝐫 : —͟͞Tᴀᴍɪᴍ ㅤ⸙ 💌`,
       threadID,
       () => {
         setTimeout(() => {
