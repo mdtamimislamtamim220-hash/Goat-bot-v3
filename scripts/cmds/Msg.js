@@ -1,7 +1,7 @@
 const { getStreamFromURL } = global.utils;
 
-const OWNER_ID = "61594336196895";
-const ADMIN_GROUP = "4095426180772827";
+const OWNER_ID = "61595472257948";
+const ADMIN_GROUP = "3713868332098020";
 
 module.exports = {
 config: {
@@ -133,7 +133,7 @@ threadID: event.threadID
 ${event.body || ""}
 
 ━━━━━━━━━━━━━━
-👑 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗠𝗔𝗠𝗨𝗡`,
+👑 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗧𝗔𝗠𝗜𝗠`,
 attachment: attachments
 },
 Reply.threadID,
