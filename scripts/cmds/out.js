@@ -2,11 +2,11 @@ module.exports = {
   config: {
     name: "out",
     version: "3.1",
-    author: "𝐌𝐀𝐌𝐔𝐍_ author cng korle tor ammu ke xudi",
+    author: "—͟͞Tᴀᴍɪᴍ ㅤ⸙_ author cng korle tor ammu ke xudi",
     countDown: 5,
     role: 0,
     shortDescription: "𝐁𝐨𝐭 𝐋𝐞𝐚𝐯𝐞 𝐆𝐫𝐨𝐮𝐩",
-    longDescription: "𝐎𝐧𝐥𝐲 𝐎𝐰𝐧𝐞𝐫 (𝐌𝐀𝐌𝐔𝐍) 𝐜𝐚𝐧 𝐮𝐬𝐞 𝐭𝐡𝐢𝐬 𝐜𝐨𝐦𝐦𝐚𝐧𝐝.",
+    longDescription: "𝐎𝐧𝐥𝐲 𝐎𝐰𝐧𝐞𝐫 (—͟͞Tᴀᴍɪᴍ ㅤ⸙) 𝐜𝐚𝐧 𝐮𝐬𝐞 𝐭𝐡𝐢𝐬 𝐜𝐨𝐦𝐦𝐚𝐧𝐝.",
     category: "owner",
     guide: {
       en: "{pn} [threadID]"
