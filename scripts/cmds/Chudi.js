@@ -31,7 +31,7 @@ module.exports.onStart = async function({ api, event, args }) {
     const arraytag = [{ id: targetID, tag: name }];
     const a = (msg) => api.sendMessage(msg, threadID);
 
-    a("Fast chuda shuru hoilo... tui thak ebar!");
+    a("bismillah...Fast chuda shuru hoilo tui dekh ebar!");
 
     // Fast Banglish List (1-2 seconds interval)
     setTimeout(() => { a({ body: "Vodai jane chodar moja tor make jigges kor kemon dichilam choda. " + name, mentions: arraytag }) }, 1000);
